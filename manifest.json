@@ -1,0 +1,15 @@
+{
+   "manifest_version": 2,
+   "name": "BlackMUD",
+   "version": "1.0",
+   "description": "СЭО теперь можно использовать в темной теме!",
+   "icons": {
+       "icon": "icon.png"
+   },
+   "content_scripts": [
+       {
+           "matches": [ "https://el.ncfu.ru/*" ],
+           "js": [ "app.js" ]
+       }
+   ]
+}
