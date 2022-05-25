@@ -1,15 +1,22 @@
 {
-   "manifest_version": 2,
+   "manifest_version": 3,
    "name": "BlackMUD",
-   "version": "1.0",
+   "version": "1.1",
    "description": "СЭО теперь можно использовать в темной теме!",
+   "permissions": ["activeTab", "scripting"],
+   "action": {
+	"default_popup": "popup.html",
+    "default_icon": {
+      "128": "icon.png"
+    }
+  },
    "icons": {
-       "icon": "icon.png"
+       "128": "icon.png"
    },
    "content_scripts": [
        {
            "matches": [ "https://el.ncfu.ru/*" ],
-           "js": [ "app.js" ]
+           "js": [ "apptest.js" ]
        }
    ]
 }
