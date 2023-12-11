@@ -1,0 +1,278 @@
+header nav, footer {
+    background-color: #292929;
+}
+header .login{
+    color: #e5e5e5;
+}
+
+header{
+    background-color: #292929;
+}
+
+header .auth {
+    color: #e5e5e5;
+}
+
+nav .mainmenu .submenu, nav .mainmenu .selected>span, nav .mainmenu .selected>a>span, nav .mainmenu>li:hover span, nav .mainmenu>li.hover span {
+    background-color: #444;
+}
+
+.col-xs-12.mainmenu-wrapper {
+    background-color: #333;
+}
+
+nav .mainmenu ul .selected span, nav .mainmenu ul li a:hover span {
+    background-color: #5d5b58;
+}
+
+body, html {
+    background-color: #3f3f3f;
+    color: #e5e5e5;
+}
+
+.panel-group>.panel-default>.panel-heading {
+    color: #e5e5e5;
+}
+
+.alert {
+    color: #e5e5e5;
+}
+
+h1, h2, h3, h4{
+    color: #d07d25;   
+}
+
+#page {
+    color: #dedec0;
+}
+
+.text-muted {
+    color: #d5d5d5;
+}
+
+.panel-group>.panel-default>.panel-heading:hover {
+    background-color: #666;
+}
+
+.nav-pills>li>a, .nav-pills>li>span {
+    background-color: #666;
+    color: #e5e5e5;
+}
+
+.nav-pills>li>span:hover {
+    background-color: #888;
+}
+
+.btn-default {
+    background-color: #666;
+    color: #e5e5e5;
+}
+
+.btn-default:hover {
+    background-color: #888;
+}
+
+li.col-lg-3.col-md-3.col-sm-3.col-xs-3 {
+    background-color: #3d3d3d;
+}
+
+.academic-years .term {
+    background-color: #666;
+    color: #e5e5e5;
+}
+
+.academic-years .term:hover {
+        background-color: #888;
+}
+
+#page {
+    background-color: #444;
+    color: #e5e5e5;
+}
+
+div.item.course:hover {
+    background-color: #777;
+}
+
+div.item.course {
+    background-color: #5f5f5f;
+    color: #eee;
+}
+
+.row {
+    background-color: #444;
+}
+
+div.item.course.selected {
+    background-color: #3e4360;
+    color: #eee;
+}
+
+.academic-years .term.selected {
+background-color: #4a4e68;
+}
+
+div.col-xs-12 {
+        background-color: #666;
+}
+
+span.logo {
+    background: url(https://freepngclipart.com/download/sunglasses/47219-simon-kamina-sunglasses-eyewear-glasses-png-free-photo.png) no-repeat center 3px;
+    background-size: 80%;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus, .nav-pills>li.active>span, .nav-pills>li.active>span:hover, .nav-pills>li.active>span:focus {
+    background-color: #4a4e68;
+}
+
+
+
+.table-striped>tbody>tr:nth-child(odd)>td, .table-striped>tbody>tr:nth-child(odd)>th {
+    background-color: #555;
+}
+
+.table-hover>tbody>tr:hover>td, .table-hover>tbody>tr:hover>th {
+    background-color: #626262;
+}
+
+a {
+    color: #e5e5e5;
+}
+
+a:hover {
+    color: #c69560;
+}
+
+.btn-primary {
+    background-color: #4a4e68;
+}
+
+div#keyboard.row {
+     background-color: #0000;
+}
+
+div#gatekeeper.row {
+     background-color: #0000;
+}
+
+.form-control, .input-group-addon, .input-group>.form-control, .input-group>.input-group-addon {
+    background-color: #666;
+    color: #e89339;
+}
+
+
+#institutes .specialities .accordion-toggle {
+    color: #ded3c7;
+}
+
+.intervals-selector .item{
+    background-color: #666;
+}
+
+.intervals-selector:hover .item:hover {
+    background-color: #737070;
+}
+
+
+table.table-hover>tbody>tr:hover>th {
+    background-color: #6e695f;
+}
+
+.table>thead>tr>td.info, .table>tbody>tr>td.info, .table>tfoot>tr>td.info, .table>thead>tr>th.info, .table>tbody>tr>th.info, .table>tfoot>tr>th.info, .table>thead>tr.info>td, .table>tbody>tr.info>td, .table>tfoot>tr.info>td, .table>thead>tr.info>th, .table>tbody>tr.info>th, .table>tfoot>tr.info>th {
+    background-color: #69645d;
+}
+
+.education-details .field .value {
+    color: #fff;
+}
+
+.title-line {
+    background: linear-gradient(135deg, #555, #444 80%, #cccccc00);
+}
+
+h5, .h5 {
+    color: #d07d25;
+}
+
+div.row.record:hover {
+    background-color: #6e695f;
+}
+
+.notification-wrapper {
+    background-color: #333;
+    color: #e5e5e5;
+}
+
+.notification-wrapper .message-wrapper {
+    background-color: #3e3e3e;
+}
+
+.subscription-panel .subscription-kind {
+    background-color: #3e3e3e;
+}
+
+.cbp-ig-grid .cbp-ig-category {
+    color: #e5e5e5;
+}
+
+.article.article-preview.primary {
+    border-left-color:#e89339;
+}
+
+.article.article-preview.is-actual {
+    background-color: #3e3e3e;
+}
+
+.messageTo {
+    background-color: #656565;
+    color: #e9e9e9;
+}
+
+.message-wrapper {
+    background-color: #3e3e3e;
+}
+
+.chat-slider-wrap.chaton .chat-wrapper .chat{
+    background-color: #4d4d4d;
+}
+
+.input-wrapper{
+    background-color: #4d4d4d;
+}
+
+.chat-slider-wrap .chat-wrapper .chat label {
+    background-color: #4d4d4d;
+    color: #dadada;
+}
+
+.chat-slider-wrap .chat-wrapper .chat .refresh, .chat-slider-wrap .chat-wrapper .chat .closed-button {
+    background-color: #4d4d4d;
+    color: #dadada;
+}
+
+.chat-slider-wrap.chaton .chat-wrapper .chat .files .file{
+    background-color: #4d4d4d;
+}
+
+.chat-slider-wrap .chat-wrapper .chat .hide:checked+label+.files {
+    background-color: #5b5b5b;
+}
+
+.chat-slider-wrap .chat-wrapper .chat .chat-files-wrap {
+    background-color: #4d4d4d;
+}
+
+.chat-slider-wrap .chat-wrapper .chat .unchat {
+    background-color: #656565;
+    color: #b5b5b5;
+}
+
+input.btn.btn-danger {
+    border-color: #826b47;
+    background-color: #826b47;
+}
+
+input.btn.btn-danger:hover{
+    border-color: #956b2a;
+    background-color: #956b2a;
+}
